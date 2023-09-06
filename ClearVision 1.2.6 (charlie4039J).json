@@ -1,5 +1,5 @@
 {
-  "name": "ClearVision v1.2.6",
+  "name": "ClearVision v1.2.6 (edited by charlie4039J)",
   "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
   "authors": [
     {
@@ -14,7 +14,7 @@
       "#fb4934"
     ],
     "BACKGROUND_FLOATING": [
-      "#102b47",
+      "#000000",
       "#102b47",
       "#102b47"
     ],
